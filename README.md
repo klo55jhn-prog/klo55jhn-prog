@@ -64,5 +64,5 @@ Desarrollador de software enfocado en la creación de aplicaciones multiplatafor
 
 ### 📫 Contacto
 [![GitHub](https://img.shields.io/badge/GitHub-klo55jhn--prog-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/klo55jhn-prog)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu.email@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-john-blanco-aguila-98b40036b/)
+[![Email](https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:klo55jhn@gmail.com)
