@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hola, soy Carlos 👋
+### Multiplatform Application Developer (DAM)
 
-<!--
-**klo55jhn-prog/klo55jhn-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador de software enfocado en la creación de aplicaciones multiplataforma, diseño de arquitecturas limpias e integración con servicios backend. Estudiante de **DAM en U-tad (Madrid)** con experiencia práctica desarrollando APIs REST, interfaces modernas con **Jetpack Compose** y aplicaciones de escritorio en **Java**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mí
+- 🔭 Actualmente desarrollando **TripPulse**, una aplicación multiplataforma para la gestión de viajes en grupo usando **Kotlin Multiplatform (KMP)** y **Jetpack Compose**.
+- 💼 Experiencia en prácticas en **Reddo Tanuki**, diseñando APIs REST e integrando servicios backend con frontend para plataformas de radio digital.
+- 🌱 Profundizando en arquitecturas multiplataforma, corrutinas en Kotlin y despliegue en la nube con **Docker** y **AWS**.
+- 📍 Madrid, España.
+
+---
+
+### 🛠️ Stack Tecnológico
+
+**Lenguajes y Frameworks Mobile / Desktop**
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+
+**Web y Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Bases de Datos**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**DevOps, Cloud y Herramientas**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📂 Proyectos Destacados
+
+| Proyecto | Descripción | Tecnologías Clave |
+| :--- | :--- | :--- |
+| **[TripPulse](https://github.com/klo55jhn-prog/TripPulse)** | App multiplataforma (TFG) para organizar viajes en grupo: itinerarios colaborativos, gastos compartidos y sincronización en tiempo real. | `Kotlin Multiplatform` `Jetpack Compose` `REST
