@@ -47,4 +47,22 @@ Desarrollador de software enfocado en la creación de aplicaciones multiplatafor
 
 | Proyecto | Descripción | Tecnologías Clave |
 | :--- | :--- | :--- |
-| **[TripPulse](https://github.com/klo55jhn-prog/TripPulse)** | App multiplataforma (TFG) para organizar viajes en grupo: itinerarios colaborativos, gastos compartidos y sincronización en tiempo real. | `Kotlin Multiplatform` `Jetpack Compose` `REST
+| **[KRAFT](https://github.com/klo55jhn-prog/KRAFT)** | **Proyecto Integrador (1º DAM):** Aplicación de escritorio orientada al fitness y gamificación. Incluye gestión de tareas deportivas, sistema de progreso por puntos, minijuegos interactivos y persistencia de datos en base de datos relacional. | `Java` `Swing` `WindowBuilder` `JDBC` `SQL` |
+| **[TripPulse](https://github.com/klo55jhn-prog/TripPulse)** | **TFG (2º DAM):** App multiplataforma para organizar viajes en grupo con itinerarios colaborativos, control de gastos compartidos y sincronización mediante API REST. | `Kotlin Multiplatform` `Jetpack Compose` `REST API` |
+| **[Radio U-tad Platform](https://github.com/klo55jhn-prog/Radio-Utad)** | Plataforma web de radio desarrollada en equipo multidisciplinar (DAM/DAW/ASIR). Diseño de la API REST backend e integración con el cliente web. | `REST API` `Backend` `SQL` `Git` |
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=klo55jhn-prog&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klo55jhn-prog&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="languages graph" />
+</div>
+
+---
+
+### 📫 Contacto
+[![GitHub](https://img.shields.io/badge/GitHub-klo55jhn--prog-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/klo55jhn-prog)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu.email@ejemplo.com)
