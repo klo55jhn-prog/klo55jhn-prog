@@ -42,7 +42,7 @@ Desarrollador de aplicaciones multiplataforma con una mentalidad **activa, const
 **📌 Datos rápidos**
 - 📍 Madrid, España
 - 🗣️ Español (nativo) · Inglés (B2) · Francés (medio)
-- 🏋️ Creador de **KRAFT**, app de fitness con gamificación
+- 🏋️ Desarrollador de **KRAFT**, app de fitness con gamificación
 - 🤝 Abierto a prácticas, colaboraciones y proyectos
 
 </td>
@@ -167,7 +167,7 @@ API --> E["🚘 NHTSA · CarQuery"]
 
 | Proyecto | Descripción | Stack |
 |:--|:--|:--|
-| 🏋️ [**KRAFT**](https://github.com/klo55jhn-prog/KRAFT) | **Proyecto integrador de 1º DAM.** App de escritorio de fitness y gamificación: rutinas, progreso por puntos, minijuegos y persistencia relacional | `Java` `Swing` `JDBC` `SQL` `POO` |
+| 🏋️ [**KRAFT**](https://github.com/klo55jhn-prog/KRAFT) | **Proyecto integrador de 1º DAM.** Ecosistema de escritorio en Java Swing con enfoque gamificado tipo RPG: registro de entrenamientos, niveles, misiones diarias y semanales, clanes, rankings y tienda de cosméticos. Arquitectura MVC, verificación en dos pasos por OTP (email con Jakarta Mail) y persistencia con JDBC y SQL | `Java` `Swing` `JDBC` `SQL` `MVC` `Jakarta Mail` |
 | 📻 [**Radio U-tad Platform**](https://github.com/klo55jhn-prog/Radio-Utad) | **Proyecto multidisciplinar DAM/DAW/ASIR.** Plataforma web para radio: API REST, modelado de BD e integración con el cliente | `REST API` `SQL` `JavaScript` `HTML/CSS` `Git` |
 
 <br/>
