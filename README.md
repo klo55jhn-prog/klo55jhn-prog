@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,40:3b4261,100:1a1b27&height=270&section=header&text=Carlos%20John%20Blanco&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Multiplatform%20Application%20Developer%20(DAM)&descSize=24&descAlignY=58" width="100%" alt="Carlos John Blanco" />
 
 <a href="https://github.com/klo55jhn-prog">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Kotlin+Multiplatform+%26+Jetpack+Compose;Java+Backend+%26+REST+APIs;SQL+%26+NoSQL+%7C+Docker+%7C+AWS;Construyendo+MotorHub%3A+Web+%7C+Movil+%7C+Wear+OS;IA+Generativa+aplicada+al+desarrollo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Kotlin+Multiplatform+%26+Jetpack+Compose;Java+Backend+%26+REST+APIs;SQL+%26+NoSQL+%7C+Docker+%7C+AWS;Construyendo+MotorHub%3A+Web+%7C+M%C3%B3vil+%7C+Wear+OS;IA+Generativa+aplicada+al+desarrollo" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -24,7 +24,7 @@
 
 ## 👋 Sobre mí
 
-Desarrollador de aplicaciones multiplataforma con mentalidad **activa, constante y orientada a resolver problemas técnicos de forma práctica**. Me muevo entre el **móvil con Jetpack Compose**, el **backend con APIs REST** y la **integración de IA Generativa**, y trabajo bien en equipos multidisciplinares gracias a mi background en deporte de equipo.
+Desarrollador de aplicaciones multiplataforma con una mentalidad **activa, constante y orientada a resolver problemas técnicos de forma práctica**. Trabajo entre el **desarrollo móvil con Jetpack Compose**, el **backend con APIs REST** y la **integración de IA Generativa**, y me adapto bien a equipos multidisciplinares gracias a mi experiencia en deporte de equipo.
 
 <table>
 <tr>
@@ -40,9 +40,9 @@ Desarrollador de aplicaciones multiplataforma con mentalidad **activa, constante
 <td width="50%" valign="top">
 
 **📌 Datos rápidos**
-- 📍 Madrid, España (Moratalaz)
+- 📍 Madrid, España
 - 🗣️ Español (nativo) · Inglés (B2) · Francés (medio)
-- 🏋️ Creador de **KRAFT**, app fitness con gamificación
+- 🏋️ Creador de **KRAFT**, app de fitness con gamificación
 - 🤝 Abierto a prácticas, colaboraciones y proyectos
 
 </td>
@@ -51,13 +51,13 @@ Desarrollador de aplicaciones multiplataforma con mentalidad **activa, constante
 
 <br/>
 
-## 🛠️ Tech Stack
+## 🛠️ Stack tecnológico
 
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
 
-**📱 Móvil, Desktop y Lenguajes**<br/><br/>
+**📱 Móvil, escritorio y lenguajes**<br/><br/>
 <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,python&perline=6" alt="lenguajes" /><br/>
 <sub>Kotlin · KMP · Jetpack Compose · Coroutines · Java · Swing · Python</sub>
 
@@ -90,7 +90,7 @@ Desarrollador de aplicaciones multiplataforma con mentalidad **activa, constante
 </tr>
 </table>
 
-### 🧰 Herramientas que uso a diario
+### 🧰 Herramientas de uso diario
 
 <div align="center">
 
@@ -112,7 +112,7 @@ Desarrollador de aplicaciones multiplataforma con mentalidad **activa, constante
 
 <br/>
 
-## 🚗 Proyecto estrella · MotorHub (TFG)
+## 🚗 Proyecto destacado · MotorHub (TFG)
 
 <div align="center">
 
@@ -126,7 +126,7 @@ Desarrollador de aplicaciones multiplataforma con mentalidad **activa, constante
 
 | | Componente | Qué hace |
 |:-:|:--|:--|
-| 🖥️ | **Panel Web** | Roles (Gerente, Mecánico, Cliente), inventario de vehículos y piezas, **tablero Kanban** de citas con asignación de mecánicos |
+| 🖥️ | **Panel web** | Roles (Gerente, Mecánico, Cliente), inventario de vehículos y piezas, **tablero Kanban** de citas con asignación de mecánicos |
 | 📱 | **App Android** | Jetpack Compose · Perfil **cliente** (catálogo, citas, estado en vivo) y perfil **mecánico** (tareas, escáner QR de piezas) |
 | ⌚ | **Wear OS** | Cronómetro de reparación (iniciar/pausar) y actualización de estado al servidor desde la muñeca |
 | 🔔 | **Notificaciones** | Aviso automático al cliente al terminar la reparación |
@@ -134,12 +134,12 @@ Desarrollador de aplicaciones multiplataforma con mentalidad **activa, constante
 
 ```mermaid
 flowchart LR
-    W["🖥️ Panel Web<br/>HTML + Tailwind"] --> API
-    M["📱 Android<br/>Jetpack Compose"] --> API
-    R["⌚ Wear OS<br/>Compose for Wear"] --> API
-    API{{"⚙️ API REST"}} --> DB[("🗄️ PostgreSQL")]
-    API --> N["🔔 Twilio"]
-    API --> E["🚘 NHTSA · CarQuery"]
+W["🖥️ Panel Web<br/>HTML + Tailwind"] --> API
+M["📱 Android<br/>Jetpack Compose"] --> API
+R["⌚ Wear OS<br/>Compose for Wear"] --> API
+API{{"⚙️ API REST"}} --> DB[("🗄️ PostgreSQL")]
+API --> N["🔔 Twilio"]
+API --> E["🚘 NHTSA · CarQuery"]
 ```
 
 <details>
@@ -151,14 +151,13 @@ flowchart LR
 |:-:|:--|:--|
 | **1** | Planificación, wireframes en Figma, backend base, APIs externas, panel web (inventario + Kanban) | 🎯 Primera revisión de backend y web |
 | **2** | App Android (cliente y mecánico), seguimiento en tiempo real, app Wear OS | 🎯 Primera tutoría de seguimiento |
-| **3** | Notificaciones, testing (JUnit y pruebas de API), pulido UI, memoria y vídeo | 🎯 Entrega en BlackBoard y defensa en junio |
+| **3** | Notificaciones, testing (JUnit y pruebas de API), pulido de UI, memoria y vídeo | 🎯 Entrega final y defensa (junio) |
 
 </details>
 
 <div align="center">
 
-<!-- ✏️ Cambia esta URL por la del repo de MotorHub cuando lo tengas -->
-[![Repositorio](https://img.shields.io/badge/Ver%20repositorio-MotorHub-181717?style=for-the-badge&logo=github)](https://github.com/klo55jhn-prog?tab=repositories)
+[![Repositorio](https://img.shields.io/badge/Ver%20repositorios-MotorHub-181717?style=for-the-badge&logo=github)](https://github.com/klo55jhn-prog?tab=repositories)
 
 </div>
 
@@ -168,7 +167,7 @@ flowchart LR
 
 | Proyecto | Descripción | Stack |
 |:--|:--|:--|
-| 🏋️ [**KRAFT**](https://github.com/klo55jhn-prog/KRAFT) | **Proyecto Integrador 1º DAM.** App de escritorio de fitness y gamificación: rutinas, progreso por puntos, minijuegos y persistencia relacional | `Java` `Swing` `JDBC` `SQL` `POO` |
+| 🏋️ [**KRAFT**](https://github.com/klo55jhn-prog/KRAFT) | **Proyecto integrador de 1º DAM.** App de escritorio de fitness y gamificación: rutinas, progreso por puntos, minijuegos y persistencia relacional | `Java` `Swing` `JDBC` `SQL` `POO` |
 | 📻 [**Radio U-tad Platform**](https://github.com/klo55jhn-prog/Radio-Utad) | **Proyecto multidisciplinar DAM/DAW/ASIR.** Plataforma web para radio: API REST, modelado de BD e integración con el cliente | `REST API` `SQL` `JavaScript` `HTML/CSS` `Git` |
 
 <br/>
@@ -203,7 +202,7 @@ Plataforma web integral para una emisora de radio.
 
 <br/>
 
-## 🤝 Soft skills
+## 🤝 Competencias personales
 
 <div align="center">
 
@@ -217,11 +216,11 @@ Plataforma web integral para una emisora de radio.
 
 <br/>
 
-## 📊 GitHub
+## 📊 Actividad en GitHub
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=klo55jhn-prog&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=klo55jhn-prog&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 <br/>
 
