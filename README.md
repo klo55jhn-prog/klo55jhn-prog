@@ -248,7 +248,6 @@ App móvil en **Kotlin** desarrollada en equipo como proyecto integrador del seg
 <h2>📈 &nbsp;Telemetría</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=klo55jhn-prog&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6b00&icon_color=ff6b00&text_color=c9d1d9&ring_color=ff6b00&locale=es" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klo55jhn-prog&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff6b00&text_color=c9d1d9&locale=es&langs_count=6" />
 </p>
 
