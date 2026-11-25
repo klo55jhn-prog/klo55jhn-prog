@@ -14,7 +14,6 @@
   <a href="mailto:klo55jhn@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=FF6B00" /></a>
   <img src="https://img.shields.io/badge/Madrid,_ES-0D1117?style=for-the-badge&logo=googlemaps&logoColor=FF6B00" />
   <img src="https://img.shields.io/badge/2%C2%BA_DAM_%C2%B7_U--tad-0D1117?style=for-the-badge&logo=bookstack&logoColor=FF6B00" />
-  <img src="https://komarev.com/ghpvc/?username=klo55jhn-prog&label=PROFILE%20VIEWS&color=ff6b00&style=for-the-badge&labelColor=0d1117" />
 </p>
 
 <br/>
