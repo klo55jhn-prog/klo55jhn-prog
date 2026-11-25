@@ -16,6 +16,10 @@
   <img src="https://img.shields.io/badge/2%C2%BA_DAM_%C2%B7_U--tad-0D1117?style=for-the-badge&logo=bookstack&logoColor=FF6B00" />
 </p>
 
+<p align="center">
+  <img src="assets/coche.svg" width="100%" alt="Coche animado recorriendo la parrilla de contribuciones" />
+</p>
+
 <br/>
 
 <!-- ═══════════════════════════  ABOUT  ═══════════════════════════ -->
